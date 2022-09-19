@@ -1,0 +1,23 @@
+.lookup {
+min-height: 100vh;
+  padding: 4rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+
+.question {
+    color: #1DB954;
+}
+
+.date {
+  background-color: white;
+  color: black;
+}
+
+.searchbar {
+  border-radius: 10px;
+}
